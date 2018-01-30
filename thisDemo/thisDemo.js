@@ -248,4 +248,8 @@ var obj = {
 obj.b();  // undefined window{...}
 obj.c();  // 10 Object {...}
 
+//材料引用自
+//1 https://www.jianshu.com/p/16dd8acb0b13
+//2 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this#%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%AD%E7%9A%84_this
+//3 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/arrow_functions#%E5%83%8F%E6%96%B9%E6%B3%95%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0
 
